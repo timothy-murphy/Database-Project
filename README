@@ -1,0 +1,8 @@
+This a Oracle SQL database project created during my Databse class with Professor Jonathon Wilson. 
+
+We designed our databse to resemble that of a fictional Amazon Warehouse. We had 19 tables in our database, all related to various aspects of accounting that a
+Amazon warehouse would have to undertake. 
+
+We created Stored Procedures, Views, and Triggers to view an employees schedule, access their pay and information, and what department they were in. For redundancy 
+we only added in two employees, myself and my teamate. 
+
